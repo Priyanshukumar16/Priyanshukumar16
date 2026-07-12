@@ -72,7 +72,7 @@
 
 <a href="https://skillicons.dev">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux&theme=light"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light"/>
 
 </a>
 
